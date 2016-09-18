@@ -12,7 +12,12 @@ public class Test {
 		int i = 3;
           int j = 5;
 
+          int x = 3;
+
           int y = 6;
+
+
+
 
 
 	}
