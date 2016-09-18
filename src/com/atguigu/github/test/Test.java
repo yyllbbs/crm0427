@@ -8,8 +8,8 @@ public class Test {
  
 		 System.out.println("hedaxia");
 		System.out.println("dsfdsfdsfsfdsfsdfs222");
-
-          
+		int i = 3;
+          int j = 5;
 
 	}
 	
