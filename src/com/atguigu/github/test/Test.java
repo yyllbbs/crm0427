@@ -12,7 +12,7 @@ public class Test {
 		int i = 3;
           int j = 5;
 
-          
+          int y = 6;
 
 
 	}
